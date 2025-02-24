@@ -43,9 +43,9 @@ cd CodeAlpha_AgeCalculat
 Project Structure
 
 📂 CodeAlpha_AgeCalculator
-│── 📜 index.html
-│── 📜 styles.css     
-│── 📜 script.js 
+│── 📜 index.html <br>
+│── 📜 styles.css <br> 
+│── 📜 script.js <br>
 │── 📜 README.md
 
 🤝 Contributing
