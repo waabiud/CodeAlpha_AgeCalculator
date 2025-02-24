@@ -15,7 +15,7 @@ A simple web-based **Age Calculator** built using **HTML, CSS, and JavaScript**.
 
 ## 📸 Screenshot
 
-![Age Calculator Screenshot](AgeCalculator.jpeg)
+![Age Calculator Screenshot](CodeAlphaCalculator.jpeg)
 
 ## 🛠 How It Works
 
