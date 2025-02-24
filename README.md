@@ -13,7 +13,7 @@ A simple web-based **Age Calculator** built using **HTML, CSS, and JavaScript**.
 
 🚀 [View Live Project](https://waabiud.github.io/CodeAlpha_AgeCalculator)  
 
-## 📸 Screenshots
+## 📸 Screenshot
 
 ![Age Calculator Screenshot](AgeCalculator.jpeg)
 
@@ -25,9 +25,9 @@ A simple web-based **Age Calculator** built using **HTML, CSS, and JavaScript**.
 
 ## 🖥️ Technologies Used
 
-- **HTML** - Structure of the webpage  
-- **CSS** - Styling and UI enhancements  
-- **JavaScript** - Age calculation logic  
+- **HTML** 
+- **CSS**   
+- **JavaScript**  
 
 ## 🚀 Installation & Usage
 
