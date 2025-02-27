@@ -34,15 +34,17 @@ A simple web-based **Age Calculator** built using **HTML, CSS, and JavaScript**.
 1. Clone the repository:
    ```bash
    git clone https://github.com/waabiud/CodeAlpha_AgeCalculator.git
+   
 2. Navigate to the project folder:
 ```bash
-cd CodeAlpha_AgeCalculat
+cd Codealpha_tasks
+```
 
 3.Open index.html in your browser.
 
 ## Project Structure
 
-📂 CodeAlpha_AgeCalculator
+📂 Codealpha_tasks
 
 
 │── 📜 index.html <br>
